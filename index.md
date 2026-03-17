@@ -16,7 +16,10 @@ I design and prototype electromechanical systems using CAD, embedded programming
 
 Autodesk Certified Professional - Design for Manufacturing
 
-<a href="https://www.credly.com/badges/78c9c877-5973-4c8f-b8bf-4b1d3d923f90/public_url" target="_blank" rel="noopener noreferrer">
+<a href="https://www.credly.com/badges/78c9c877-5973-4c8f-b8bf-4b1d3d923f90/public_url"
+   target="_blank"
+   rel="noopener noreferrer"
+   onclick="window.open(this.href,'_blank'); return false;">
   <img src="images/autodesk-badge.png" alt="Autodesk Certification Badge" width="200">
 </a>
 
