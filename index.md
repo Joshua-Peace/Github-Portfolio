@@ -1,4 +1,3 @@
-# Joshua Peace
 
 I design and prototype electromechanical systems using CAD, embedded programming, and rapid prototyping.
 
