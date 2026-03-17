@@ -5,7 +5,7 @@ I design and prototype electromechanical systems using CAD, embedded programming
 
 - Fusion 360
 - Arduino
-- KiCAD
+- KiCad
 - 3D Printing
 - Mechanical Design
 
