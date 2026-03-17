@@ -19,7 +19,7 @@ Autodesk Certified Professional - Design for Manufacturing
    target="_blank"
    rel="noopener noreferrer"
    onclick="window.open(this.href,'_blank'); return false;">
-  <img src="images/autodesk-badge.png" alt="Autodesk Certification Badge" width="200">
+  <img src="images/autodesk-badge.png" alt="Autodesk Certification Badge" width="100">
 </a>
 
 ## Projects
